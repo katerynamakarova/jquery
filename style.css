@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  background-color: #828565;
+}
+
+#title {
+  font-family: 'Inconsolata', monospace;
+  font-size: 5rem;
+  margin:  5%;
+  color: #ced9b0;
+}
+
+.main {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid #262b17;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 60px white;
+  background-color: #c4ccc2;
+}
